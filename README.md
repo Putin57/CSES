@@ -1,2 +1,2 @@
 # CSES
-#Vikings_PUTIN_still_alive
+#All CSES problem solution
